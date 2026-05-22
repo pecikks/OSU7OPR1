@@ -1,6 +1,6 @@
 # Java_OPR1_PR1
 
-Simple Java console project for practicing object-oriented programming.
+Simple Java console project for practicing object-oriented programming, following the PDF file.
 
 The program models a small library system. It stores different publication types,
 prints information about them, demonstrates borrowing behavior, and searches for
