@@ -1,6 +1,6 @@
 # Java OPR1 PR2
 
-Simple Java console project for a sports equipment rental system.
+Simple Java console project for a sports equipment rental system, following the PDF file.
 
 ## Description
 
